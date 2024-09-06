@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-## `project live link :-` https://react-qr-code-generator-oou4xwohy-amit-kumars-projects-d761c49e.vercel.app/
+## `project live link :-` https://react-qr-code-generator-seven.vercel.app/
 
 
 
